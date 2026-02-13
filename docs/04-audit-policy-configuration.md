@@ -19,8 +19,6 @@ Enabled:
 
 ## Evidence
 
-![Audit Policy Enabled](../screenshots/06-audit-logon-success-failure-enabled.png)
+![Audit Policy Enabled](../screenshots/09-audit-policy.png)
 
-![Failed Login Event 4625](../screenshots/08-failed-login-4625.png)
-
-![Successful Login Event 4624](../screenshots/09-successful-login-4624.png)
+![Login Events](../screenshots/10-security-logs-event.png)
