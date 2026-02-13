@@ -21,8 +21,8 @@ Account created:
 
 ![Boot Manager](../screenshots/02-efi-boot-from-install.png)
 ![Windows install](../screenshots/01-windows11-arm-install.png)
-![OOBE bypass attempted](..screenshots/04-oobe-bypassnro.png)
-![Network interface disabled](..screenshots/05-network-interface-disabled.png)
-![Local administrator account created](..screenshots/06-localadmin-account-created.png)
+![OOBE bypass attempted](../screenshots/04-oobe-bypassnro.png)
+![Network interface disabled](../screenshots/05-network-interface-disabled.png)
+![Local administrator account created](../screenshots/06-localadmin-account-created.png)
 ![Initial desktop](../screenshots/03-initial-desktop.png)
 
