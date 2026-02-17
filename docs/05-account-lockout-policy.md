@@ -9,24 +9,14 @@ Mitigate brute-force authentication attacks by enforcing account lockout control
 - Lockout duration: 15 minutes
 - Reset counter after: 15 minutes
 
-## Security Impact
-
-Prevents:
-- Automated password guessing
-- Credential stuffing attempts
-
-Creates:
-- Defensive barrier
-- Logged lockout events for detection
-
 ## Lockout Event Observed
 
-- Event ID 4740 → Account locked out
+- Event ID 4625 → Account locked out
 
 ## Evidence
 
-![Lockout Policy Configured](../screenshots/10-account-lockout-policy-configured.png)
+![Lockout Policy Configured](../screenshots/35-account-lockout-settings.png)
 
-![Account Locked Message](../screenshots/11-account-locked-message.png)
+![Account Locked Message](../screenshots/37-account-locked-message.png)
 
-![Event 4740](../screenshots/12-event-4740-account-locked.png)
+![Event 4625](../screenshots/38-account-lockout-event.png)
